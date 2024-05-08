@@ -1,5 +1,5 @@
-# Exp.No : 04 
-# Deep Neural Network for Malaria Infected Cell Recognition
+## Exp.No : 04 
+## Deep Neural Network for Malaria Infected Cell Recognition
 
 ## AIM
 
@@ -33,8 +33,8 @@ To develop a deep neural network for Malaria infected cell recognition and to an
 
 ## PROGRAM
 
-# Developed by: JANANI.V.S
-# Register no: 212222230050
+##  Developed by: JANANI.V.S
+## Register no: 212222230050
 
 **importing libraries**
 ```python
