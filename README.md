@@ -1,30 +1,4 @@
 # Exp.No : 04 
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-# Date : 29.04.2024 
-<br>
 # Deep Neural Network for Malaria Infected Cell Recognition
 
 ## AIM
