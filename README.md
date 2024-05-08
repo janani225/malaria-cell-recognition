@@ -183,14 +183,17 @@ confusion_matrix(test_image_gen.classes,predictions)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
+![image](https://github.com/janani225/malaria-cell-recognition/assets/113497333/e4df68b8-b80e-488a-89ff-760f3d138b05)
 
 
 ### Classification Report and Confusion Matrix
+![image](https://github.com/janani225/malaria-cell-recognition/assets/113497333/6cae7f06-8b5e-4ce0-8651-fc71b23ec467)
 
 
 
 ### New Sample Data Prediction
 
+![image](https://github.com/janani225/malaria-cell-recognition/assets/113497333/7cbc9dd9-f009-48b2-b9c1-b29f7a2df74b)
 
 
 ## RESULT
