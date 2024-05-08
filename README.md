@@ -193,7 +193,7 @@ confusion_matrix(test_image_gen.classes,predictions)
 
 ### New Sample Data Prediction
 
-![image](https://github.com/janani225/malaria-cell-recognition/assets/113497333/7cbc9dd9-f009-48b2-b9c1-b29f7a2df74b)
+![image](https://github.com/janani225/malaria-cell-recognition/assets/113497333/c00a028a-cbde-4e48-887b-b0a88b5e9fb3)
 
 
 ## RESULT
